@@ -4,10 +4,10 @@
 [Español](README_es.md)
 [한국어](README_ko_KR.md)
 [Français](README_fr.md)
-[Deutsch](README_de_DE.md)
 
-Vcpkg helps you manage C and C++ libraries on Windows, Linux and MacOS.
-This tool and ecosystem are constantly evolving, and we always appreciate contributions!
+Vcpkg unterstüzt Sie bei der Verwaltung von C und C++ Bibliotheken auf Windows, Linux und MacOS Plattformen.
+Dieses Werkzeug und seine Umgebung werden stetig verbessert und erweitert. Zudem freuen wir uns auf Ihre Unterstützung!
+
 
 If you've never used vcpkg before, or if you're trying to figure out how to use vcpkg,
 check out our [Getting Started](#getting-started) section for how to start using vcpkg.
